@@ -1,0 +1,6 @@
+x = ("Nagaraja SK ")
+
+print (x.upper())
+print (x.lower())
+print (x.replace(" ","_"))
+print (x.strip()*5)
